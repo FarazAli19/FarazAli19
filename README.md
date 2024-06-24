@@ -17,13 +17,10 @@ Hello! I'm **Faraz Ali**, a Full Stack Engineer from Pakistan. With expertise in
 
 ## Education
 
-- **Master of Science in Computer Science** - University Of Sialkot
-- **Bachelor of Science in Computer Science** - University Of Gujrat
+- **Bachelor of Science in Software Engineering ** - University Of Management and Technology Lahore
 
 ## Certifications
 
-- **Microsoft Office Specialist** - Microsoft
-- **Java Basics** - Oracle Academy
 - **Various Online Courses** - Udemy (HTML, CSS, Bootstrap, SQL Database, Node.js, React, Redux)
 
 ---
